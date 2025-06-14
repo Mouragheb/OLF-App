@@ -20,7 +20,7 @@ const BookManager = () => {
 
       <div className="w-full max-w-5xl bg-library-paper dark:bg-gray-800 shadow-xl rounded-xl p-8 border border-gray-200 dark:border-gray-700">
       <h1
-          className="text-xl sm:text-3xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
+          className="text-xl sm:text-xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
           style={{
             fontFamily: "'Playfair Display', serif",
             WebkitTextStroke: '1px black', // black border around text

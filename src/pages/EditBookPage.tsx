@@ -45,7 +45,7 @@ return (
     <div className="w-full max-w-screen-md min-h-fit bg-library-paper dark:bg-gray-800 text-gray-800 dark:text-red-300 p-6 rounded-lg shadow-lg">
       
     <h1
-          className="text-xl sm:text-3xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
+          className="text-xl sm:text-xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
           style={{
             fontFamily: "'Playfair Display', serif",
             WebkitTextStroke: '1px black', // black border around text
