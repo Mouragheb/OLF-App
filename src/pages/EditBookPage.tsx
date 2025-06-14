@@ -45,13 +45,13 @@ return (
     <div className="w-full max-w-screen-md min-h-fit bg-library-paper dark:bg-gray-800 text-gray-800 dark:text-red-300 p-6 rounded-lg shadow-lg">
       
     <h1
-          className="text-3xl sm:text-3xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
+          className="text-xl sm:text-3xl font-bold tracking-wide text-library-brown drop-shadow-md text-center mb-4"
           style={{
             fontFamily: "'Playfair Display', serif",
             WebkitTextStroke: '1px black', // black border around text
             textShadow: '2px 2px 4px rgba(0,0,0,0.4)', // subtle shadow
           }}
-        > ✏️ EDIT BOOK</h1>
+        > ✏️ EDIT YOUR BOOK</h1>
       
       <img
         src={form.coverImage}
